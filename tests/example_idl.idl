@@ -1,0 +1,13 @@
+module Example {
+#this is a comment
+    struct Data1 {
+        string name; #this is a comment
+        long age;
+        float weight;
+    };
+    struct Data2 {
+        string name; #this is a comment
+        double age;
+    };
+    #this is a comment
+};
